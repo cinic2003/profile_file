@@ -1,0 +1,12 @@
+alias gemi='gem install --no-ri --no-rdoc '
+
+alias gl='git pull'
+alias gp='git push'
+alias gs='git status'
+alias gf='git diff '
+alias gac='git add .;git commit -m '
+alias glog='git log'
+
+alias rs='rails s'
+alias rc='rails c'
+alias rdb='rake db:migrate'
